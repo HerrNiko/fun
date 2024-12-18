@@ -1,5 +1,8 @@
 test
 sefsfgsg
+
 int cos tam
 
 void inny syf
+
+void jakis tam
